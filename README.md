@@ -1,2 +1,2 @@
 # SILIN_CORE.github.io
-Wed en desarrollo 
+http://127.0.0.1:5500/HTML-Silin%20core/index.html
